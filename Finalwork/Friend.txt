@@ -1,5 +1,0 @@
-huliang 3214 tel:123456 email:1456789@163.com 市实验
-dapiyan 1216 tel:13456 email:dapiyan@163.com 柳州高中
-wxy 0314 tel:12345678 wxy@163.com 华南理工大学
-weijiateng 0523 tel:1234889 wjt@gmail.com 柳州高中
-shuangfanfan 0416 tel:13838468 sff@163.com 市实验中学
